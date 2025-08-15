@@ -27,7 +27,7 @@ pip install langgraph
 
 ## Expected Output:
 - If running in an IPython environment (e.g., Jupyter), a Mermaid diagram of the graph will be displayed.
-- The console will print:
+- This is will print:
 ```python 
 User mesage: Hello World.
 I have reached Node 1.
