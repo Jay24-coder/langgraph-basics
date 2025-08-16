@@ -97,7 +97,7 @@ GOOGLE_API_KEY=your_api_key_here
          "messages": [
              "Hello, what is machine learning?",
              {
-                 "content": "<Gemini model's response about machine learning>",
+                 "content": "<Gemini model's response>",
                  ...
              }
          ]
